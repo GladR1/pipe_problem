@@ -1,0 +1,5 @@
+catboost
+umap-learn
+seaborn
+scikit-learn
+ipywidgets
